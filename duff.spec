@@ -11,6 +11,7 @@ Patch1:		shared-sha.patch
 URL:		http://duff.dreda.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
+BuildRequires:	gettext-tools
 BuildRequires:	sha-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
