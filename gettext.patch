@@ -1,0 +1,9 @@
+--- duff-0.5.2/configure.ac~	2016-04-13 20:48:15.000000000 +0200
++++ duff-0.5.2/configure.ac	2016-04-13 20:48:50.336706267 +0200
+@@ -43,5 +43,5 @@
+   [], [AC_MSG_ERROR([Function not found])])
+ AC_CHECK_FUNCS([asprintf vasprintf])
+ 
+-AC_OUTPUT([Makefile lib/Makefile src/Makefile po/Makefile.in man/Makefile])
++AC_OUTPUT([Makefile lib/Makefile src/Makefile man/Makefile])
+ 
