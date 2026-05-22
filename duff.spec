@@ -1,7 +1,7 @@
 Summary:	Duplicate file finder
 Name:		duff
 Version:	0.5.2
-Release:	3
+Release:	4
 License:	BSD
 Group:		Applications
 Source0:	https://github.com/elmindreda/duff/archive/%{version}/%{name}-%{version}.tar.gz
